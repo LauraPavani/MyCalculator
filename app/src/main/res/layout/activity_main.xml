@@ -34,6 +34,7 @@
             android:layout_weight="1"
             android:text="7"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -43,6 +44,7 @@
             android:layout_weight="1"
             android:text="8"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -52,6 +54,7 @@
             android:layout_weight="1"
             android:text="9"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -61,6 +64,7 @@
             android:layout_weight="1"
             android:text="/"
             android:onClick="onOperator"
+            android:backgroundTint="@color/gray"
             />
 
     </LinearLayout>
@@ -79,6 +83,7 @@
             android:layout_weight="1"
             android:text="4"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -88,6 +93,7 @@
             android:layout_weight="1"
             android:text="5"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -97,6 +103,7 @@
             android:layout_weight="1"
             android:text="6"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -106,6 +113,7 @@
             android:layout_weight="1"
             android:text="*"
             android:onClick="onOperator"
+            android:backgroundTint="@color/gray"
             />
 
     </LinearLayout>
@@ -124,6 +132,7 @@
             android:layout_weight="1"
             android:text="1"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -133,6 +142,7 @@
             android:layout_weight="1"
             android:text="2"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -142,6 +152,7 @@
             android:layout_weight="1"
             android:text="3"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -151,6 +162,7 @@
             android:layout_weight="1"
             android:text="+"
             android:onClick="onOperator"
+            android:backgroundTint="@color/gray"
             />
 
     </LinearLayout>
@@ -169,6 +181,7 @@
             android:layout_weight="1"
             android:text="."
             android:onClick="onDecimalPoint"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -178,6 +191,7 @@
             android:layout_weight="1"
             android:text="0"
             android:onClick="onDigit"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -187,6 +201,7 @@
             android:layout_weight="1"
             android:text="CLR"
             android:onClick="onClear"
+            android:backgroundTint="@color/gray"
             />
 
         <Button
@@ -196,6 +211,7 @@
             android:layout_weight="1"
             android:text="-"
             android:onClick="onOperator"
+            android:backgroundTint="@color/gray"
             />
 
 
